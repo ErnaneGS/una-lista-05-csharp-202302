@@ -14,8 +14,7 @@ class Atividade01
             vetor[i] = Convert.ToInt32(Console.ReadLine());
         }
 
-        Console.WriteLine("");
-        Console.WriteLine("Números digitados:");
+        Console.WriteLine("\nNúmeros digitados:");
         foreach (int numero in vetor)
         {
             Console.WriteLine(numero);

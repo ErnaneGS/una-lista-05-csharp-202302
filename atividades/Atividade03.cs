@@ -21,7 +21,6 @@ class Atividade03
             Console.Write($"{numero} / ");
         }
 
-        Console.WriteLine("");
-        Console.WriteLine($"-- Media: {soma / vetor.Length}");
+        Console.WriteLine($"\n-- Media: {soma / vetor.Length}");
     }
 }
