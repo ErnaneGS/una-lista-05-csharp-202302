@@ -6,7 +6,7 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("\n\nLista de Exercícios IV: Estrutura de Repetição");
+            Console.WriteLine("\n\nLista de Exercícios V: Arrays");
             Console.WriteLine("\nEscolha uma opção:");
             Console.WriteLine("1. Atividade-01");
             Console.WriteLine("2. Atividade-02");
