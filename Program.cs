@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 
 class Program
 {
@@ -6,8 +6,8 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("Lista de Exercícios IV: Estrutura de Repetição");
-            Console.WriteLine("Escolha uma opção:");
+            Console.WriteLine("\n\nLista de Exercícios IV: Estrutura de Repetição");
+            Console.WriteLine("\nEscolha uma opção:");
             Console.WriteLine("1. Atividade-01");
             Console.WriteLine("2. Atividade-02");
             Console.WriteLine("3. Atividade-03");
